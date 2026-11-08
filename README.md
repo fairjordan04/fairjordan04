@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm a Nabil👋<br><br>🎓 Studying Computer Science at BRAC University.<br><br>💻 Interested in Backend Development, AI/ML, and Software Engineering.<br><br>🐍 Currently learning Python, FastAPI, PostgreSQL, and Machine Learning.<br><br>🚀 Learning, building, and improving one project at a time.
+ Hi, I'm Nabil👋<br><br>🎓 Studying Computer Science at BRAC University.<br><br>💻 Interested in Backend Development, AI/ML, and Software Engineering.<br><br>🐍 Currently learning Python, FastAPI, PostgreSQL, and Machine Learning.<br><br>🚀 Learning, building, and improving one project at a time.
 
 
 ## 🌐 Socials:
